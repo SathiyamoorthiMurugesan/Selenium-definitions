@@ -1,2 +1,1 @@
-Git is a Tool
-Git Hub is a website provide different service -> Bug tracking, Task Management, Hosting
+
