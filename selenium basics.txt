@@ -3,3 +3,5 @@ Can we handle dynamic xpath or any dynamic loaded value in Page Factory design p
 How will you open a particular link in a separate window(new window)?
 What are the three tags that are used to put the dependency in pom.xml?
 
+https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/
+
