@@ -5,3 +5,15 @@ What are the three tags that are used to put the dependency in pom.xml?
 
 https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/
 
+
+How can we add file in .gitignore to avoid the file get checked in Git Hub?
+How can we pass the string from test case & identify the WebElement?
+Asssume there are two html tags for the same element. We can say those are duplicate,. how will you highlight the active WebElement using xpath ?
+//div[contains(@class,'Active')]//(following the WebElement xpath)
+What are the limitations of Page Factory Model ? Why you still prefer it ?
+
+
+
+
+
+
